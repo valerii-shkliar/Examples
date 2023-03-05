@@ -1,0 +1,5 @@
+node-modules/
+dist/
+.DS_Store
+origin_ssh_key
+origin_ssh_key.pub
